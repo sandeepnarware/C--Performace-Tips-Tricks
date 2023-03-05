@@ -1,0 +1,15 @@
+E:\Work\Personal\C--Performace-Tips-Tricks\CSharpPerfromance\CSharpPerfromance\bin\Debug\net7.0\CSharpPerfromance.exe
+E:\Work\Personal\C--Performace-Tips-Tricks\CSharpPerfromance\CSharpPerfromance\bin\Debug\net7.0\CSharpPerfromance.deps.json
+E:\Work\Personal\C--Performace-Tips-Tricks\CSharpPerfromance\CSharpPerfromance\bin\Debug\net7.0\CSharpPerfromance.runtimeconfig.json
+E:\Work\Personal\C--Performace-Tips-Tricks\CSharpPerfromance\CSharpPerfromance\bin\Debug\net7.0\CSharpPerfromance.dll
+E:\Work\Personal\C--Performace-Tips-Tricks\CSharpPerfromance\CSharpPerfromance\bin\Debug\net7.0\CSharpPerfromance.pdb
+E:\Work\Personal\C--Performace-Tips-Tricks\CSharpPerfromance\CSharpPerfromance\obj\Debug\net7.0\CSharpPerfromance.csproj.AssemblyReference.cache
+E:\Work\Personal\C--Performace-Tips-Tricks\CSharpPerfromance\CSharpPerfromance\obj\Debug\net7.0\CSharpPerfromance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Personal\C--Performace-Tips-Tricks\CSharpPerfromance\CSharpPerfromance\obj\Debug\net7.0\CSharpPerfromance.AssemblyInfoInputs.cache
+E:\Work\Personal\C--Performace-Tips-Tricks\CSharpPerfromance\CSharpPerfromance\obj\Debug\net7.0\CSharpPerfromance.AssemblyInfo.cs
+E:\Work\Personal\C--Performace-Tips-Tricks\CSharpPerfromance\CSharpPerfromance\obj\Debug\net7.0\CSharpPerfromance.csproj.CoreCompileInputs.cache
+E:\Work\Personal\C--Performace-Tips-Tricks\CSharpPerfromance\CSharpPerfromance\obj\Debug\net7.0\CSharpPerfromance.dll
+E:\Work\Personal\C--Performace-Tips-Tricks\CSharpPerfromance\CSharpPerfromance\obj\Debug\net7.0\refint\CSharpPerfromance.dll
+E:\Work\Personal\C--Performace-Tips-Tricks\CSharpPerfromance\CSharpPerfromance\obj\Debug\net7.0\CSharpPerfromance.pdb
+E:\Work\Personal\C--Performace-Tips-Tricks\CSharpPerfromance\CSharpPerfromance\obj\Debug\net7.0\CSharpPerfromance.genruntimeconfig.cache
+E:\Work\Personal\C--Performace-Tips-Tricks\CSharpPerfromance\CSharpPerfromance\obj\Debug\net7.0\ref\CSharpPerfromance.dll
